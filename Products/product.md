@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Product
+title: Products
 nav_order: 
 has_children: true
 permalink: "/product/"
