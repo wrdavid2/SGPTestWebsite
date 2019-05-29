@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: DASH
 parent: Products
 nav_order: "2"
