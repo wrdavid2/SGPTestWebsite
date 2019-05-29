@@ -25,6 +25,11 @@ fields:
 - name: has_children
   type: boolean
   label: has_children
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: permalink
 pages:
 - About Child Pages/our-history.md
 - About Child Pages/our-approach.md
