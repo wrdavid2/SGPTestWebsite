@@ -30,3 +30,6 @@ fields:
   config:
     required: false
   label: permalink
+- name: has_toc
+  type: boolean
+  label: has_toc
