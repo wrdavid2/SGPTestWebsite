@@ -7,4 +7,4 @@ permalink: "/about"
 has_toc: true
 
 ---
-\#About Us
+# About Us
