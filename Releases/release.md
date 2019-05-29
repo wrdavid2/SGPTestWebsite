@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Release
+title: Releases
 nav_order: 
 has_children: true
 permalink: "/releases"
