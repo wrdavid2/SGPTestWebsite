@@ -32,3 +32,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- Products/faq.md
