@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Us
-nav_order: 2
+nav_order: 
 has_children: true
 permalink: "/about"
 has_toc: true
