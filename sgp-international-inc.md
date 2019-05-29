@@ -8,5 +8,7 @@ has_toc: false
 
 ---
 # SGP International Inc.
------
-we are a team of data geeks who make custom software for all types of businesses
+
+***
+
+we are a team of data geeks who make custom software for all types of businesses.
