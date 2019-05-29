@@ -9,4 +9,4 @@ has_toc: true
 ---
 # About Us
 
-here is my blurb
+here is m![](/uploads/chianticlassicologo.jpg)y blurb
