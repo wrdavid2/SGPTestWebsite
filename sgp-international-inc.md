@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SGP International Inc.
-nav_order: 1
+nav_order: 2
 has_children: false
 permalink: "/sgp_international"
 has_toc: false
