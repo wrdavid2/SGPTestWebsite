@@ -6,10 +6,10 @@ webhook_url:
 sections:
 - type: jekyll-pages
   label: Pages
-  create: none
+  create: all
 - type: jekyll-posts
   label: Posts
-  create: none
+  create: all
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
