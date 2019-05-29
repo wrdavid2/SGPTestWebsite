@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: SGP International Inc.
 nav_order: 
 has_children: false
