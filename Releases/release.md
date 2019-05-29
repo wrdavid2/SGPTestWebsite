@@ -5,7 +5,6 @@ nav_order:
 has_children: true
 permalink: "/releases"
 has_toc: true
-published: false
 
 ---
 # **Releases**
