@@ -33,3 +33,5 @@ fields:
 - name: has_toc
   type: boolean
   label: has_toc
+pages:
+- sgp-international-inc.md
