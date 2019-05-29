@@ -2,7 +2,7 @@
 layout: default
 title: Our History
 parent: About Us
-nav_order: ''
+nav_order: "3"
 has_children: false
 
 ---
