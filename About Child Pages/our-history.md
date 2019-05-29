@@ -4,7 +4,7 @@ title: Our History
 parent: About Us
 nav_order: ''
 has_children: false
-permalink: "/about-us/our-history"
+permalink: "/about/our-history"
 
 ---
 # Our History
