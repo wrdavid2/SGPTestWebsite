@@ -34,6 +34,7 @@ fields:
   type: boolean
   label: has_toc
 pages:
+- About Child Pages/about-us.md
 - sgp-international-inc.md
 - Products/product.md
 - Releases/release.md
