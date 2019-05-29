@@ -7,4 +7,5 @@ has_children: false
 
 ---
 # Our History
+------
 ![](/uploads/image (2).png)
