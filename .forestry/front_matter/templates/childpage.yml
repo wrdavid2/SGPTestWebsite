@@ -25,6 +25,3 @@ fields:
 - name: has_children
   type: boolean
   label: has_children
-- name: has_toc
-  type: boolean
-  label: has_toc
