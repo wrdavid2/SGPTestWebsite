@@ -8,7 +8,7 @@ has_children: true
 ---
 # DASH
 
-Business intelligence software allowing people to see and understand their data
+Business intelligence software allowing people to see and understand their data.
 
 ***
 
