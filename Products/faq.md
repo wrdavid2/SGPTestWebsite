@@ -4,6 +4,7 @@ title: FAQ
 parent: DASH
 grand_parent: Products
 nav_order: 
+has_children: true
 published: false
 
 ---
