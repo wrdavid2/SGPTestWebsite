@@ -1,6 +1,6 @@
 ---
 title: TestPage
-menus: ''
+menus: header
 layout: default
 
 ---
