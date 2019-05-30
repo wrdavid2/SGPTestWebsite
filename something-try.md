@@ -1,6 +1,6 @@
 ---
 title: Something Try
-layout: ''
+layout: default
 
 ---
 yeet yeet yeeet
