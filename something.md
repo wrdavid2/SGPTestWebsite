@@ -1,7 +1,9 @@
 ---
 title: Something
-menus: header
 layout: default
+menu:
+  header:
+    weight: 1
 
 ---
 yeet yeet yeet
