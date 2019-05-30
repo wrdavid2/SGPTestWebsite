@@ -17,5 +17,3 @@ fields:
   config:
     required: false
   label: layout
-pages:
-- testpage.md
