@@ -12,3 +12,5 @@ fields:
   config:
     required: false
   label: layout
+pages:
+- something-try.md
