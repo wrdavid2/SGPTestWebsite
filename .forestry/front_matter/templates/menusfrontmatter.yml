@@ -12,5 +12,10 @@ fields:
   config:
     required: false
   label: menus
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
 pages:
 - something.md
