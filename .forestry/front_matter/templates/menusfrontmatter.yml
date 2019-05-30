@@ -19,4 +19,3 @@ fields:
   label: layout
 pages:
 - something.md
-- "./something.md"
