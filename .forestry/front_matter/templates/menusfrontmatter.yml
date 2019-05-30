@@ -7,11 +7,6 @@ fields:
   config:
     required: false
   label: title
-- name: menus
-  type: text
-  config:
-    required: false
-  label: menus
 - name: layout
   type: text
   config:
