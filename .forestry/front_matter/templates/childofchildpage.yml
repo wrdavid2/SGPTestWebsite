@@ -34,3 +34,4 @@ fields:
     step: 
 pages:
 - Products/faq.md
+- Products/faqchild.md
