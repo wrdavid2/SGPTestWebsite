@@ -18,5 +18,4 @@ fields:
     required: false
   label: layout
 pages:
-- something.md
 - testpage.md
