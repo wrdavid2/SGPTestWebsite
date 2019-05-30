@@ -32,6 +32,9 @@ fields:
     min: 
     max: 
     step: 
+- name: has_children
+  type: boolean
+  label: has_children
 pages:
 - Products/faq.md
 - Products/faqchild.md
