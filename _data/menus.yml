@@ -1,4 +1,6 @@
 ---
 header:
+- weight: 2
+  title: TestPage
 - weight: 1
   title: First
